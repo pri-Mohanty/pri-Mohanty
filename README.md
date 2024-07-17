@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Mohanty</h1>
-<h3 align="center">An aspiring ML and DL student and practitioner looking for interesting projects and opportunities.</h3>
+<h3 align="center">An aspiring ML student and practitioner looking for interesting projects and opportunities.</h3>
 
 - 🌱 I’m currently learning **Visual Similarity in context of NLP**
 
