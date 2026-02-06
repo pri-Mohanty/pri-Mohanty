@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Mohanty</h1>
-<h3 align="center">An aspiring ML student and practitioner looking for interesting projects and opportunities.</h3>
-
-- 🌱 I’m currently learning **multimodal data extraction**
+<h1 align="center">I'm Priyanshu Mohanty</h1>
+<h3 align="center">An ML researcher looking for his niche that he can contribute to. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
